@@ -10,9 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^6.3.3",
+    "cssnano": "^3.5.2",
     "cssnext": "^1.8.4",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.0",
+    "gulp-watch": "^4.3.5",
+    "postcss-import": "^8.0.2",
     "precss": "^1.4.0"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.3"
   }
 }
